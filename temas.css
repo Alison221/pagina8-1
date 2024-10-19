@@ -1,0 +1,48 @@
+.contenedor{
+
+width: 100%;
+height: 1200px;
+background-color: aqua;
+display: flex;
+flex-direction: column;
+text-align: center;
+color: rgb(0, 0, 0);
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.encabezado{
+
+width: 100%;
+height: 200px;
+background-color: blue;
+
+font-size: 30px;
+}
+
+.tecnologia{
+
+width: 100%;
+height: 400px;
+background-color: rgb(157, 157, 255);
+
+font-size: 20px;
+}
+
+.sociales{
+
+width: 100%;
+height: 400px;
+background-color: blueviolet;
+
+font-size: 20px;
+}
+
+.ingles{
+
+width: 100%;
+height: 400px;
+background-color: rgb(43, 226, 119);
+
+font-size: 20px;
+}

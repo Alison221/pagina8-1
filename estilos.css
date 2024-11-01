@@ -5,15 +5,18 @@
     font-size: 40px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(244, 237, 237);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondos.jpg");
+ 
+   background-image: url("fondos.jpeg");
+   
    
 
 }
@@ -21,13 +24,13 @@ body{
 font-size: 60px;
 color: black;
 text-align: center;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
 .img1{
-    height: 193px;
-    width: 300px;
+    height: 140px;
+    width: 360px;
     background-image: url("piedra.jpeg");
     background-repeat: no-repeat;
     float: right;

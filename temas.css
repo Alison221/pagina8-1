@@ -1,7 +1,7 @@
 .contenedor{
 
 width: 100%;
-height: 1200px;
+height: 5000px;
 background-color: rgb(255, 255, 255);
 display: flex;
 flex-direction: column;
@@ -14,8 +14,9 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 .encabezado{
 
 width: 100%;
-height: 200px;
-background-color: rgb(255, 166, 0);
+height: 150px;
+background-color: rgb(255, 209, 123);
+color: rgb(175, 0, 0);
 
 font-size: 30px;
 }
@@ -23,8 +24,8 @@ font-size: 30px;
 .tecnologia{
 
 width: 100%;
-height: 400px;
-background-color: rgb(238, 255, 0);
+height: 1000px;
+background-color: rgb(248, 255, 146);
 
 font-size: 20px;
 }
@@ -32,8 +33,8 @@ font-size: 20px;
 .sociales{
 
 width: 100%;
-height: 400px;
-background-color: rgb(0, 174, 255);
+height: 1000px;
+background-color: rgb(145, 220, 255);
 
 font-size: 20px;
 }
@@ -41,10 +42,11 @@ font-size: 20px;
 .ingles{
 
 width: 100%;
-height: 400px;
-background-color: rgb(119, 0, 255);
-
+height:2500px;
+background-color: #8dffec;
+text-align: left;
 font-size: 20px;
+
 }
 
 .titulo{

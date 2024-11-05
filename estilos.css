@@ -10,7 +10,7 @@
 
 }
 .principal{
-   display: flex;
+ display: inline;
      
 }
 body{
@@ -50,3 +50,21 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     float: right;
 
 }
+
+.ima4{
+    height: 400px;
+    width: 900px;
+    background-image: url("Imageningles1.png");
+    background-repeat: no-repeat;
+    float: none;
+}
+ 
+.imag5{
+    height: 700px;
+    width: 5000px;
+    background-image: url("Imageningles2.png");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+

@@ -15,7 +15,7 @@
 }
 body{
  
-   background-image: url("fondos.jpeg");
+   background-image: url("fondoss.jpg");
    
    
 
@@ -69,9 +69,9 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .imag6{
-    height: 1000px;
-    width: 1000px;
-    background-image: url("inicioimg.webp");
+    height: 200px;
+    width: 500px;
+    background-image: url("pueblitomedellin.jpg");
     background-repeat: no-repeat;
     float: none;
 
@@ -80,7 +80,84 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 .imag7{
     height: 1000px;
     width: 1000px;
-    background-image: url("contaimg.webp");
+    background-image: url("medellin2.jpg");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+
+.imag8{
+    height: 200px;
+    width: 500px;
+    background-image: url("imagtec.webp");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+
+.imag9{
+    height: 300px;
+    width: 500px;
+    background-image: url("imgtec2.jpg");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+
+.imag10{
+    height: 100px;
+    width: 500px;
+    background-image: url("imgtec3.png");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+
+.imag11{
+    height: 300px;
+    width: 500px;
+    background-image: url("imgtec4.png");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+.imag12{
+    height: 130px;
+    width: 200px;
+    background-image: url("imgtec5.png");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+.imag13{
+    height: 55px;
+    width: 100px;
+    background-image: url("imgtec6.png");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+.imag14{
+    height: 100px;
+    width: 500px;
+    background-image: url("imgtec3.png");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+.imag15{
+    height: 100px;
+    width: 500px;
+    background-image: url("imgtec3.png");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+
+.imag16{
+    height: 100px;
+    width: 500px;
+    background-image: url("imgtec3.png");
     background-repeat: no-repeat;
     float: none;
 

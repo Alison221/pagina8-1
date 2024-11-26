@@ -68,3 +68,20 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
+.imag6{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("inicioimg.webp");
+    background-repeat: no-repeat;
+    float: none;
+
+}
+
+.imag7{
+    height: 1000px;
+    width: 1000px;
+    background-image: url("contaimg.webp");
+    background-repeat: no-repeat;
+    float: none;
+
+}
